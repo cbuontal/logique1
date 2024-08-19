@@ -30,6 +30,11 @@ Author: Your Name
 
 ## A horizontal Slide
 
+```mermaid
+graph LR
+  A["Affirmation A"] ---> |"A implique B"| B["Affirmation B"]
+```
+
 ### A veritical Slide
 
 ## More Examples
